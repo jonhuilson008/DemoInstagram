@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb269474-5bfe-4227-b90f-a49788709a7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/src/main/kotlin/uz/mf/config/ConfigApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/src/main/resources/shared/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/src/main/resources/shared/discovery.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/src/main/resources/shared/gateway.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/src/main/resources/shared/user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/.gitlab-ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/src/main/kotlin/uz/mf/discovery/DiscoveryApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.gitlab-ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/kotlin/uz/mf/gateway/GatewayApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instagram_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.gitlab-ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Components.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Controllers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Dtos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Entities.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Enums.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Exceptions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Repositories.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/Services.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/kotlin/uz/demo/user/UserApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/error.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/error_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/error_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/error_uz_cyr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/error_uz_lat.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/config">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/discovery">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/user">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TFHvmsHlPuyuGpfss10ui95rgJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Madina/Desktop/instagram_demo/user/src/main/kotlin/uz/demo/user",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Madina\Desktop\instagram_demo\user\src\main\kotlin\uz\demo\user" />
+      <recent name="C:\Users\Madina\Desktop\instagram_demo\user\src\main\resources" />
+      <recent name="C:\Users\Madina\Desktop\instagram_demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigApplication">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.mf.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.mf.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.mf.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.demo.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb269474-5bfe-4227-b90f-a49788709a7b" name="Changes" comment="" />
+      <created>1690632143417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690632143417</updated>
+      <workItem from="1690632145081" duration="4481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
